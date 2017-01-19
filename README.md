@@ -1,7 +1,7 @@
 ##Membuat-README.md
 
 * About This Site:  
-  Website merupakan website tutorial untuk membuat rumah sederhana.  
+  Website ini merupakan website tutorial untuk membuat rumah sederhana.  
 * Used Tags & Syntaxes:  
   * color
   * font-size
